@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>eupago_cofidispay</name>
+    <displayName><![CDATA[Eupago - Cofidis Pay]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Permite que o seus clientes paguem as encomendas com Cofidis Pay]]></description>
+    <author><![CDATA[Eupago]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Tem a certeza que deseja desinstalar o módulo de pagamentos por Cofidis Pay?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
